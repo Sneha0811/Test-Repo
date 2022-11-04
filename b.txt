@@ -1,3 +1,4 @@
 This is file B. And not line 2.
 Hi, this is Guru.
 I am ritu whos modifying Line 3
+Hi, this is Guru. Change 2.
