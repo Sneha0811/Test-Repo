@@ -1,2 +1,2 @@
 This is file B. And not line 2.
-Hi, this is Guru.
+Hi, this is Guru. Change 2.
